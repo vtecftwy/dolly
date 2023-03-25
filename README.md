@@ -1,8 +1,7 @@
 > My fork of this dolly package to make improve an LLM with the Alpaca dataset.
+>
+> Original ReadMe below
 
-----------------------
-Original ReadMe below
-----------------------
 
 # Dolly
 
